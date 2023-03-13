@@ -15,15 +15,11 @@ List of Open Source projects I have contributed to on GitHub
 
 * [do-core1](https://github.com/AlexandreBrg/do-core1) - DO processor
 
-* [do3-dataviz](https://github.com/AlexandreBrg/do3-dataviz)
-
 * [issues-helper](https://github.com/AlexandreBrg/issues-helper) - 🤖 A GitHub Action easily helps you automatically manage issues. Welcome to try.
 
 * [k8s](https://github.com/AlexandreBrg/k8s) - Kubernetes Helm Charts for the ORY ecosystem.
 
 * [kratos](https://github.com/AlexandreBrg/kratos) - Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, profile management, identity schemas, social sign in, registration, account recovery, and IoT auth. Golang, headless, API-only - without templating or theming headaches.
-
-* [lab](https://github.com/AlexandreBrg/lab)
 
 * [lumper](https://github.com/AlexandreBrg/lumper) - A basic Rust VMM
 
