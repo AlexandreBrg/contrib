@@ -15,6 +15,8 @@ List of Open Source projects I have contributed to on GitHub
 
 * [do-core1](https://github.com/AlexandreBrg/do-core1) - DO processor
 
+* [firec](https://github.com/AlexandreBrg/firec) - Rust API to interact with firecracker
+
 * [issues-helper](https://github.com/AlexandreBrg/issues-helper) - 🤖 A GitHub Action easily helps you automatically manage issues. Welcome to try.
 
 * [k8s](https://github.com/AlexandreBrg/k8s) - Kubernetes Helm Charts for the ORY ecosystem.
