@@ -17,6 +17,8 @@ List of Open Source projects I have contributed to on GitHub
 
 * [firec](https://github.com/AlexandreBrg/firec) - Rust API to interact with firecracker
 
+* [firepilot](https://github.com/AlexandreBrg/firepilot) - Rust library to manage and create firecracker microVMs
+
 * [issues-helper](https://github.com/AlexandreBrg/issues-helper) - 🤖 A GitHub Action easily helps you automatically manage issues. Welcome to try.
 
 * [k8s](https://github.com/AlexandreBrg/k8s) - Kubernetes Helm Charts for the ORY ecosystem.
