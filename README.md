@@ -27,6 +27,8 @@ List of Open Source projects I have contributed to on GitHub
 
 * [lumper](https://github.com/AlexandreBrg/lumper) - A basic Rust VMM
 
+* [morty-demo-wordle](https://github.com/AlexandreBrg/morty-demo-wordle) - A fun Wordle clone made using React, Typescript, and Tailwind
+
 * [nestjs-minio](https://github.com/AlexandreBrg/nestjs-minio) - Minio module for NestJS
 
 * [nestjs-otel](https://github.com/AlexandreBrg/nestjs-otel) - OpenTelemetry module for Nest framework (node.js)  🔭
